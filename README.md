@@ -1,2 +1,2 @@
 # rust-fundamentals
-Learning rust
+Familarizing myself with WebAssemby and Rust this weekend
